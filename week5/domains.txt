@@ -1,0 +1,8 @@
+custom domain:
+  tandrews.mooo.com
+
+old domain:
+  timandrews.website
+
+node tutorial:
+  https://infinite-plateau-26891.herokuapp.com/
