@@ -1,0 +1,5 @@
+static site updated app:
+http://ancient-refuge-17156.herokuapp.com/
+
+database specific URL:
+https://infinite-plateau-26891.herokuapp.com/db
