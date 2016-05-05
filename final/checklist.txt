@@ -1,0 +1,10 @@
+my project fulfills the following requirements for a total of 850 points
+
+
+100 - Hosted on Heroku at the URL: https://safe-citadel-89910.herokuapp.com
+100 - Custom domain name: tandrews.strangled.net
+100 - Instructor/discretionary
+300 - 4 complete HTML pages with content- I have a homepage with an image slider and nav bar which navigate to
+three other HTML pages, each one displaying a collection of one particular style of photographs that I've taken.
+200 - Custom CSS or Bootstrap for design (custom bootstrap + CSS on all pages)
+50 - Use at least two custom images (lots of original photography was used)
